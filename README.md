@@ -8,6 +8,6 @@ The materials here aim to test one's understanding of MATLAB, assuming that the 
 ### Week 1: What even is MATLAB?
 
 Includes: 
-1. A worksheet of conceptual and basic MATLAB questions that probe your understanding of the MATLAB graphical user interface (GUI), data types and structures, slicing and indexing arrays, and operations;
-2. A \*.m MATLAB code with comments that guide the user through loading, manipulating, and plotting simulated sensor data. 
-3. A \*.mat file of data with three variables: x and y sensor readings for 100 trials, t vector of time. 
+1. W1_worksheet.pdf: A worksheet of conceptual and basic MATLAB questions that probe your understanding of the MATLAB graphical user interface (GUI), data types and structures, slicing and indexing arrays, and operations;
+2. W1_worksheet.m: A \*.m MATLAB code with comments that guide the user through loading, manipulating, and plotting simulated sensor data. 
+3. d2.mat: A \*.mat file of data with three variables: x and y sensor readings for 100 trials, t vector of time. 
