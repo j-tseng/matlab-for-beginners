@@ -12,6 +12,11 @@ Includes:
 2. W1_worksheet.m: A \*.m MATLAB code with comments that guide the user through loading, manipulating, and plotting simulated sensor data. 
 3. d2.mat: A \*.mat file of data with three variables: x and y sensor readings for 100 trials, t vector of time. 
 
+If you're speedy and finish quickly: 
+- Load the `examgrades.mat` file (already imported with most MATLAB installations under the Statistics and Machine Learning Toolbox) and design your own analysis.
+- The data is a (120 students x 5 exams) matrix, where the grades are a value between 0 and 100. 
+- The five exams each cover the following topics: [math, math, literature, literature, comprehensive].
+
 ### Week 2: Control flow statements
 
 Includes:
