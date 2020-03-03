@@ -11,3 +11,9 @@ Includes:
 1. W1_worksheet.pdf: A worksheet of conceptual and basic MATLAB questions that probe your understanding of the MATLAB graphical user interface (GUI), data types and structures, slicing and indexing arrays, and operations;
 2. W1_worksheet.m: A \*.m MATLAB code with comments that guide the user through loading, manipulating, and plotting simulated sensor data. 
 3. d2.mat: A \*.mat file of data with three variables: x and y sensor readings for 100 trials, t vector of time. 
+
+### Week 2: Control flow statements
+
+Includes:
+
+1. W2_worksheet_1.pdf: Tuesday worksheet including a review of concepts from Week 1, introduction to control flow statements (for, while loops and if/else statements), related exercises, and practice with other functions that help to calculate descriptive statistics of arrays. 
