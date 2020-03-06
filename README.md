@@ -3,6 +3,8 @@ Programming and scientific computing skills are critical to the future researche
 
 The materials here aim to test one's understanding of MATLAB, assuming that the learner has had no prior or limited exposure to programming concepts. Ideally, these exercises supplement an ongoing MATLAB course (this may change depending on whether I add lessons myself). The following exercises will require the learner to interact with the program, entering arrays, performing calculations, and thinking about how the different pieces fit together to analyze data.
 
+This set of tutorials was developed for a student coming in twice a week. I would provide them with the PDF worksheet on the first day, and the *.m script worksheet on the second day. I'd check in at the midpoint of each day for any initial questions, as well as at the end of each day to go over their responses. While going through their responses, I would often ask follow-up questions to probe their understanding of the concept or go on tangents. 
+
 ## Course Overview
 
 ### Week 1: What even is MATLAB?
@@ -22,3 +24,4 @@ If you're speedy and finish quickly:
 Includes:
 
 1. W2_worksheet_1.pdf: Tuesday worksheet including a review of concepts from Week 1, introduction to control flow statements (for, while loops and if/else statements), related exercises, and practice with other functions that help to calculate descriptive statistics of arrays. 
+2. W2_worksheet.m: MATLAB script file that uses comments to denote where the student should fill in their responses to the PDF worksheet questions. At the end, there are two examples: one of a for loop and the other of a while loop. Students are asked to provide corresponding pseudocode and to come up with a visual way of representing what happens in the first few loop iterations. In the while loop example, they are also asked to make modifications that implement an if/else statement. 
