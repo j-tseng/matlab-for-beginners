@@ -25,3 +25,9 @@ Includes:
 
 1. W2_worksheet_1.pdf: Tuesday worksheet including a review of concepts from Week 1, introduction to control flow statements (for, while loops and if/else statements), related exercises, and practice with other functions that help to calculate descriptive statistics of arrays. 
 2. W2_worksheet.m: MATLAB script file that uses comments to denote where the student should fill in their responses to the PDF worksheet questions. At the end, there are two examples: one of a for loop and the other of a while loop. Students are asked to provide corresponding pseudocode and to come up with a visual way of representing what happens in the first few loop iterations. In the while loop example, they are also asked to make modifications that implement an if/else statement. 
+
+### Week 3: Creating your own functions
+
+Includes:
+
+1. W3_worksheet.pdf: Includes review of concepts from Week 2, introduction to the concept of functions, and an exercise that leads the user through creating a function. 
